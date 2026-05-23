@@ -1,4 +1,4 @@
-# 🌟 Elimu AI — Your Kenyan Student Study Companion
+#  Elimu AI — Your Kenyan Student Study Companion
 
 Elimu AI is a free, AI-powered chatbot designed to help Kenyan primary and secondary school students (ages 6–18) with academics, exam preparation, and mindset development.
 
